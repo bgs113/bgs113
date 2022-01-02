@@ -3,6 +3,13 @@
 ## Hello 👋
 
 I am a cloud architect with interests in AWS/Azure/GCP, DevOps/SRE, Serverless, Kubernetes, IaC, networking, security, and privacy.
+
+[![LinkedIn](https://img.shields.io/badge/-Bryan_Sakowski-0A66C2?style=f&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/bryansakowski/)
+[![GitHub](https://img.shields.io/badge/-@bgs113-181717?style=flat&logo=GitHub&logoColor=white)](https://github.com/bgs113)
+[![Twitter](https://img.shields.io/badge/-@bgs113-1DA1F2?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/bgs113)
+
+<https://bryansakowski.com>
+
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -45,3 +52,48 @@ I am a cloud architect with interests in AWS/Azure/GCP, DevOps/SRE, Serverless, 
 [![MCSA: Windows Server 2012 - Certified 2016](https://images.credly.com/size/110x110/images/835b37d1-09fb-42d5-9559-38abc7b4063d/MCSA_Windows_Server_2012-01.png)](http://www.credly.com/badges/87d52c3e-e80b-4651-a50a-33723a6686c2 "MCSA: Windows Server 2012 - Certified 2016")
 [![MCSE: Cloud Platform and Infrastructure — Certified 2016](https://images.credly.com/size/110x110/images/bcb1cbc7-7791-465d-8fe4-0848bc607360/MCSE_Cloud_Platform_and_Infrastructure-01.png)](http://www.credly.com/badges/d6860f85-2c46-47d2-9edb-63dd0fab8142 "MCSE: Cloud Platform and Infrastructure — Certified 2016")
 <!--END_SECTION:badges-->
+
+## Technical Skills
+
+![Git](https://img.shields.io/badge/git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FCA121?style=flat&logo=gitlab&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
+![Vim](https://img.shields.io/badge/Vim-019733?style=flat&logo=vim&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat&logo=intellijidea&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white)
+![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=flat&logo=confluence&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=flat&logo=azuredevops&logoColor=white)
+
+![Amazon Web Services (AWS)](https://img.shields.io/badge/Amazon_Web_Services-232F3E?style=flat&logo=amazonaws&logoColor=white)
+![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
+![Digital Ocean](https://img.shields.io/badge/Digital_Ocean-0080FF?style=flat&logo=digitalocean&logoColor=white)
+![Equinix Metal](https://img.shields.io/badge/Equinix_Metal-ED2224?style=flat&logo=equinixmetal&logoColor=white)
+<!-- ![Google Cloud Platform (GCP)](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=googlecloud&logoColor=white) -->
+
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![Helm](https://img.shields.io/badge/Helm-0F1689?style=flat&logo=helm&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Shell Scripting](https://img.shields.io/badge/Shell_Scripting-4EAA25?style=flat&logo=gnubash&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat&logo=powershell&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat&logo=ansible&logoColor=white)
+![Chef](https://img.shields.io/badge/Chef-F09820?style=flat&logo=chef&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
+![NGINX](https://img.shields.io/badge/NGINX-009639?style=flat&logo=nginx&logoColor=white)
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=white)
+![Red Hat](https://img.shields.io/badge/Red_Hat-EE0000?style=flat&logo=redhat&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
+![SUSE](https://img.shields.io/badge/SUSE-73BA25?style=flat&logo=suse&logoColor=white)
+![Windows Server](https://img.shields.io/badge/Windows_Server-0078D6?style=flat&logo=windows&logoColor=white)
+![VMware](https://img.shields.io/badge/VMware-607078?style=flat&logo=vmware&logoColor=white)
+
+![New Relic](https://img.shields.io/badge/New_Relic-008C99?style=flat&logo=newrelic&logoColor=white)
+![Fluentd/Fluent Bit](https://img.shields.io/badge/Fluentd-0E83C8?style=flat&logo=fluentd&logoColor=white)
+![Elastic Stack](https://img.shields.io/badge/Elastic_Stack-005571?style=flat&logo=elasticstack&logoColor=white)
+
+![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=flat&logo=cisco&logoColor=white)
+![Palo Alto Networks](https://img.shields.io/badge/Palo_Alto_Networks-DB6648?style=flat&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=cloudflare&logoColor=white)
