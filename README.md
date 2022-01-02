@@ -1,10 +1,9 @@
-### Hi there 👋
+# Bryan Sakowski
 
+## Hello 👋
+
+I am a cloud architect with interests in AWS/Azure/GCP, DevOps/SRE, Serverless, Kubernetes, IaC, networking, security, and privacy.
 <!--
-**bgs113/bgs113** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -15,4 +14,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+## GitHub Stats
+
 ![Bryan Sakowski's GitHub Stats](https://github-readme-stats-blush-iota.vercel.app/api?username=bgs113&show_icons=true&count_private=true&include_all_commits=true&theme=dracula)
+
+## Certifications & Trainings
+
+<!--START_SECTION:badges-->
+<!--END_SECTION:badges-->
