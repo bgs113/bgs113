@@ -30,7 +30,6 @@ I currently work for [Credera](https://www.credera.com) as a Senior Architect in
 ## Certifications & Trainings
 
 <!--START_SECTION:badges-->
-
 [![AWS Certified Solutions Architect – Professional](https://images.credly.com/size/110x110/images/8e968853-15af-4bbc-9d03-cf518971909c/AWS-SolArchitect-Professional-2020.png)](http://www.credly.com/badges/ca8c3b92-0b7c-4f9b-98ec-f999e3e981dd "AWS Certified Solutions Architect – Professional")
 [![AWS Certified Solutions Architect – Professional](https://images.credly.com/size/110x110/images/8e968853-15af-4bbc-9d03-cf518971909c/AWS-SolArchitect-Professional-2020.png)](http://www.credly.com/badges/902ed64f-336f-4e91-ac38-e923dea0c2a9 "AWS Certified Solutions Architect – Professional")
 [![AWS Certified Solutions Architect – Associate](https://images.credly.com/size/110x110/images/4bc21d8b-4afe-4fbd-9a90-a9de8bf7b240/AWS-SolArchitect-Associate-2020.png)](http://www.credly.com/badges/535178e8-909e-41ba-8812-81be554a53f7 "AWS Certified Solutions Architect – Associate")
