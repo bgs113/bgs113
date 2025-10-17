@@ -4,8 +4,6 @@
 
 I am a cloud architect and consultant with interests in AWS/Azure/GCP, DevOps/SRE, Serverless, Kubernetes, IaC, networking, security, and privacy.
 
-I currently work for [Mission](https://www.missioncloud.com) as a Senior Cloud Solutions Architect.
-
 [![LinkedIn](https://img.shields.io/badge/-Bryan_Sakowski-0A66C2?style=f&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/bryansakowski/)
 [![GitHub](https://img.shields.io/badge/-@bgs113-181717?style=flat&logo=GitHub&logoColor=white)](https://github.com/bgs113)
 [![Twitter](https://img.shields.io/badge/-@bgs113-1DA1F2?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/bgs113)
@@ -22,10 +20,6 @@ I currently work for [Mission](https://www.missioncloud.com) as a Senior Cloud S
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-## GitHub Stats
-
-![Bryan Sakowski's GitHub Stats](https://github-readme-stats-blush-iota.vercel.app/api?username=bgs113&show_icons=true&count_private=true&include_all_commits=true&theme=dracula)
 
 ## Certifications & Trainings
 
