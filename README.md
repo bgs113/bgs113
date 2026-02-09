@@ -6,7 +6,6 @@ I am a cloud architect and consultant with interests in AWS/Azure/GCP, DevOps/SR
 
 [![LinkedIn](https://img.shields.io/badge/-Bryan_Sakowski-0A66C2?style=f&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/bryansakowski/)
 [![GitHub](https://img.shields.io/badge/-@bgs113-181717?style=flat&logo=GitHub&logoColor=white)](https://github.com/bgs113)
-[![Twitter](https://img.shields.io/badge/-@bgs113-1DA1F2?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/bgs113)
 
 <https://bryansakowski.com>
 
